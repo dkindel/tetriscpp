@@ -1,4 +1,4 @@
-tetriscpp
+Tetriscpp
 =========
 
-A remake of Tetris written in c++
+A remake of Tetris written in c++.
